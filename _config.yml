@@ -21,7 +21,7 @@ repository               : "ryan-0210/ryan-0210.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "苗晨阳 Chenyang Miao"
   pronouns         : # example: "she/her"  
   # bio              : "M.S (Expected 2025), @Majoring in Geological Engineering, [School of Earth Sciences and Engineering, Nanjing University](https://es.nju.edu.cn/mainm.htm)"
