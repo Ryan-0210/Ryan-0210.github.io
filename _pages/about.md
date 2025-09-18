@@ -94,7 +94,7 @@ redirect_from:
         <h2>Projects</h2>
         <!-- <h3>Interests</h3> -->
         <p style="text-align: justify;">- Research on the mechanism of the impact of large underground structures on land subsidence (<em>Ministry of Natural Resources, China</em>), <strong>Project leader</strong>. 
-        <br>- Simulation study on regional land subsidence considering the effect of large underground structures (<em>Natural Science Foundation of China</em>), <strong>main participant</strong>. 
+        <br>- Simulation study on regional land subsidence considering the effect of large underground structures (<em>National Natural Science Foundation of China</em>), <strong>main participant</strong>. 
         <br>- Research on the impact mechanism and prevention measures of land subsidence on metro tunnels in loess regions (<em>National Natural Science Foundation of China</em>), <strong>main participant</strong>.
         <br>- Physical model test study on the disaster mechanism and prevention measures for linear engineering within ground fissures and land subsidence environment (<em>China Geological Survey Land and Resources Survey Project</em>), <strong>main participant</strong>.</p>
     </section>
