@@ -36,19 +36,19 @@ redirect_from:
 
         /* Header styling */
         header {
-            padding: 10px 20px;
+            padding: 5px 10px;
             text-align: center;
         }
 
         /* Section styling */
         section {
-            margin: 20px;
-            padding: 20px;
+            margin: 5px;
+            padding: 10px;
         }
 
         /* Heading styles */
         h1, h2 {
-            margin-bottom: 10px; /* Consistent space below headings */
+            margin-bottom: 5px; /* Consistent space below headings */
         }
 
         /* Link styles */
@@ -64,11 +64,11 @@ redirect_from:
         /* List styles */
         ul {
             list-style-type: none; /* No bullets */
-            padding-left: 20px;
+            padding-left: 10px;
         }
 
         li {
-            margin-bottom: 10px;
+            margin-bottom: 5x;
         }
 
         /* Remove footer styling for simplicity */
@@ -78,6 +78,8 @@ redirect_from:
     <header>
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
+    </header>
+    <section>
         <p>My name is Chenyang Miao, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
         <br> Major: Geological Engineering
         <br> Supervisor: <a href="https://es.nju.edu.cn/zy/list.htm">Prof. Yun Zhang</a>
@@ -95,9 +97,9 @@ redirect_from:
         <br>- Simulation study on regional land subsidence considering the effect of large underground structures (<em>Natural Science Foundation of China</em>), <strong>main participant</strong>. 
         <br>- Research on the impact mechanism and prevention measures of land subsidence on metro tunnels in loess regions (<em>National Natural Science Foundation of China</em>), <strong>main participant</strong>.
         <br>- Physical model test study on the disaster mechanism and prevention measures for linear engineering within ground fissures and land subsidence environment (<em>China Geological Survey Land and Resources Survey Project</em>), <strong>main participant</strong>.</p>
-       </section> -->
+    </section>
     <div style="text-align: center;">
-    <img src="/images/地科.jpg" alt="Geological Science Image" style="width:100%;">
+    <img src="/images/地科.jpg" alt="Geological Science Image" style="width:95%;">
 </div>
 </body>
 </html>
