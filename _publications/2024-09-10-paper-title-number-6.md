@@ -1,11 +1,11 @@
 ---
-title: "Characterization of shallow karst zones using distributed acoustic sensing and ambient noise tomography: a case study in Mufu Mountain, China"
+title: "Analytical solution of the mechanical response of a shield tunnel crossing an active ground fissure zone"
 collection: publications
 category: manuscripts
 # permalink: /publication/2024-02-17-paper-title-number-4
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-08-29
-venue: 'Engineering Geology'
+venue: 'International Journal of Geomechanics'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Haiyang Liao, Dan Zhang, Zhengyu Qian, Hasanjan Yimit, and Qi Luo. "Characterization of shallow karst zones using distributed acoustic sensing and ambient noise tomography: a case study in Mufu Mountain, China" Engineering Geology, submitted.'
+citation: 'Chenyang Miao, Qiangbing Huang, Yun Zhang. "Analytical solution of the mechanical response of a shield tunnel crossing an active ground fissure zone" International Journal of Geomechanics, 2024, 24(9): 04024192 (SCI, IF=3.3, JCR=Q2).'
 ---
