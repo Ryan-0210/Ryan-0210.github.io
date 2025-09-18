@@ -99,7 +99,8 @@ redirect_from:
         <br>- Physical model test study on the disaster mechanism and prevention measures for linear engineering within ground fissures and land subsidence environment (<em>China Geological Survey Land and Resources Survey Project</em>), <strong>main participant</strong>.</p>
     </section>
     <div style="text-align: center;">
-    <img src="/images/地科.jpg" alt="Geological Science Image" style="width:95%;">
+    <img src="/images/南大.jpg" alt="Geological Science Image" style="width:95%;">
+    <img src="/images/南大鼓楼.jpg" alt="Geological Science Image" style="width:95%;">
 </div>
 </body>
 </html>
