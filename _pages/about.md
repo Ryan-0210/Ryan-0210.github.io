@@ -78,20 +78,22 @@ redirect_from:
     <header>
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
-        <p>My name is Haiyang Liao, a Master Student (Sep. 2022 - June 2025 expected) in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am exploring opportunities for Ph.D. in Geophysics.</p>
-    </header>
+        <p>My name is Chenyang Miao, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
+        <br> Major: Geological Engineering
+        <br> Supervisor: <a href="https://es.nju.edu.cn/zy/list.htm">Prof. Yun Zhang</a>
+        <br> Faculty: <a href="https://es.nju.edu.cn/esen/main.htm">School of Earth Sciences and Engineering</a></p>
     <section id="research">
         <h2>Research Interests</h2>
         <!-- <h3>Interests</h3> -->
-        <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, my specialization is in applying fiber-optic distributed acoustic sensing (DAS) technologies to image urban shallow subsurfaces, utilizing both active and passive seismic sources to enhance the accuracy and depth of subsurface mapping. I am dedicated to furthering my studies and research in seismology algorithms and programming, exploring the diverse applications of DAS technology across various contexts.</p>
-    </section>
-    <!-- <section id="projects">
+        <p>- Investigation on the mechanism of land subsidence under the barrier effect of underground structures. 
+        <br>- Numerical simulation of fully coupled three-dimensional land subsidence in Finite Element Method (FEM).
+        <br>- Investigation on the mechanical behavior of metro tunnels under the influence of ground fissures or land subsidence.</p>
         <h2>Projects</h2>
-        <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, I primarily focus on:</p>
-        <ul>
-            <li><strong>Urban Ground Collapse Monitoring</strong> (May 2024 - Present): Utilizing existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapses through both active and passive seismic imaging. This major research focus during my master's studies involves extensive participation in experiments and research using DAS seismology.</li>
-            <li><strong>Geological Exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing</strong> (June 2023 - Aug. 2024): Employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is prevalent. As the student leader on this project, I am responsible for designing the experimental plan, coordinating with multiple parties, implementing the field tests, processing data, and co-authoring the final report.</li>
-        </ul>
+        <!-- <h3>Interests</h3> -->
+        <p style="text-align: justify;">- Research on the mechanism of the impact of large underground structures on land subsidence (<em>Ministry of Natural Resources, China</em>), <strong>Project leader</strong>. 
+        <br>- Simulation study on regional land subsidence considering the effect of large underground structures (<em>Natural Science Foundation of China</em>), <strong>main participant</strong>. 
+        <br>- Research on the impact mechanism and prevention measures of land subsidence on metro tunnels in loess regions (<em>National Natural Science Foundation of China</em>), <strong>main participant</strong>.
+        <br>- Physical model test study on the disaster mechanism and prevention measures for linear engineering within ground fissures and land subsidence environment (<em>China Geological Survey Land and Resources Survey Project</em>), <strong>main participant</strong>.</p>
     </section>
     <section id="experience">
         <h2>Experience</h2>
