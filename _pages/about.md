@@ -82,6 +82,7 @@ redirect_from:
         <br> Major: Geological Engineering
         <br> Supervisor: <a href="https://es.nju.edu.cn/zy/list.htm">Prof. Yun Zhang</a>
         <br> Faculty: <a href="https://es.nju.edu.cn/esen/main.htm">School of Earth Sciences and Engineering</a></p>
+    </section>
     <section id="research">
         <h2>Research Interests</h2>
         <!-- <h3>Interests</h3> -->
@@ -94,17 +95,10 @@ redirect_from:
         <br>- Simulation study on regional land subsidence considering the effect of large underground structures (<em>Natural Science Foundation of China</em>), <strong>main participant</strong>. 
         <br>- Research on the impact mechanism and prevention measures of land subsidence on metro tunnels in loess regions (<em>National Natural Science Foundation of China</em>), <strong>main participant</strong>.
         <br>- Physical model test study on the disaster mechanism and prevention measures for linear engineering within ground fissures and land subsidence environment (<em>China Geological Survey Land and Resources Survey Project</em>), <strong>main participant</strong>.</p>
-    </section>
-    <section id="experience">
-        <h2>Experience</h2>
-        <ul>
-            <li><strong>Urban Ground Collapse Monitoring</strong> (May 2024 - Present): Deployed fiber optic cables near campus wells to validate cavity detection with DAS. Studied lateral detection ranges using the three-station interferometry method to address uneven noise.</li>
-            <li><strong>Optical Fiber Cable Coupling Methods Study</strong> (May 2024 - Present): Installed fiber optic cables on campus using different coupling methods to compare imaging effects from active and passive sources.</li>
-            <li><strong>Karst Fracture Zone Detection in Mufu Mountain, Nanjing</strong> (Jan. 2024 - Aug. 2024): Laid fiber optic cables on roads near Mufu Mountain, applying the frequency-Bessel method to detect fractured karst zones in dolomite.</li>
-            <li><strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.</li>
-        </ul>
-    </section> -->
+       </section> -->
+    <div style="text-align: center;">
     <img src="/images/地科.jpg" alt="Geological Science Image" style="width:100%;">
+</div>
 </body>
 </html>
 
