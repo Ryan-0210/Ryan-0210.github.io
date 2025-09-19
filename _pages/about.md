@@ -89,7 +89,7 @@ redirect_from:
         <h2>Research Interests</h2>
         <!-- <h3>Interests</h3> -->
         <p>- Investigation on the mechanism of land subsidence under the barrier effect of underground structures. 
-        <br>- Numerical simulation of fully coupled three-dimensional land subsidence in Finite Element Method (FEM).
+        <br>- Numerical simulation of fully coupled three-dimensional land subsidence with consideration of soil-structure interaction in Finite Element Method (FEM).
         <br>- Investigation on the mechanical behavior of metro tunnels under the influence of ground fissures or land subsidence.</p>
         <h2>Projects</h2>
         <!-- <h3>Interests</h3> -->
